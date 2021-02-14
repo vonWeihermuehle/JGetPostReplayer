@@ -3,7 +3,7 @@
 With this tool i wanted to recreate the Users Requests to my Tomcat-Server, like a "Replay-Button".
 
 
-##Usage:
+__Usage:__
 
 ```
 JGetPostReplayer j = new JGetPostReplayer("<path to log files>", //folder with 1 or more log-files
