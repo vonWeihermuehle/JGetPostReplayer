@@ -11,8 +11,8 @@ public class Main {
 				500, //millis
 				500, //millis
 				Protocol.HTTPS,
-				"bootsfreund.de",
-				443);
+				"<hostname>",
+				<port>);
 
     	j.start();
 
