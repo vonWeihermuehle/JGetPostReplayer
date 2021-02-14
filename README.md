@@ -1,12 +1,12 @@
 # JGetPostReplayer
 
-With this tool i want to recreate the Users Request to my Tomcat-Server, like a "Replay-Button".
+With this tool i wanted to recreate the Users Requests to my Tomcat-Server, like a "Replay-Button".
 
 
 ##Usage:
 
 ```
-JGetPostReplayer j = new JGetPostReplayer("<path to log files>",
+JGetPostReplayer j = new JGetPostReplayer("<path to log files>", //folder with 1 or more log-files
 				500, //sleep time between requests in millis
 				500, //timeout of the requests in millies
 				Protocol.HTTPS, //protocoll from a enum
