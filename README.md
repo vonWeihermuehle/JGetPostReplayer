@@ -17,7 +17,7 @@ JGetPostReplayer j = new JGetPostReplayer("<path to log files>", //folder with 1
       
 ```
 
-the LogFiles, i had for input, were in the following structure.
+the LogFiles, i had for input, had the following structure.
 
 ```
 0.0.0.0 - - [14/Feb/2021:00:45:55 +0200] "GET /images HTTP/1.1" 200 256820
